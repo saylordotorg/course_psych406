@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH406: Gender and Sexuality"
+course_description: "A detailed introduction to the study of the different ways our gender roles and sexual identities impact our lives."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Sociobiological and Psychoanalytic Approaches** <span
 id="4"></span> 
 *We will now take a look at sociobiological and psychoanalytic

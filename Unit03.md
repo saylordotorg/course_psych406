@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH406: Gender and Sexuality"
+course_description: "A detailed introduction to the study of the different ways our gender roles and sexual identities impact our lives."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Sexuality and Gender Identity** <span id="3"></span> 
 *In the past few units, we have identified sex as the physical and
 biological characteristics of being either male or female.  We will now

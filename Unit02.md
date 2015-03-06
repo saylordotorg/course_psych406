@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH406: Gender and Sexuality"
+course_description: "A detailed introduction to the study of the different ways our gender roles and sexual identities impact our lives."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Biology and the Brain** <span id="2"></span> 
 *This unit will introduce you to the biological and neurological
 similarities and differences between men and women.  It will attempt to

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH406: Gender and Sexuality"
+course_description: "A detailed introduction to the study of the different ways our gender roles and sexual identities impact our lives."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: An Introduction to Gender and Sexuality** <span
 id="1"></span> 
 *Our first unit on gender and sexuality will introduce you to many of

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH406: Gender and Sexuality"
+course_description: "A detailed introduction to the study of the different ways our gender roles and sexual identities impact our lives."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Social Learning and Cognitive Developmental Approaches** <span
 id="5"></span> 
 *In this unit, we will explore social learning theory and cognitive

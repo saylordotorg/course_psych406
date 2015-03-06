@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH406: Gender and Sexuality"
+course_description: "A detailed introduction to the study of the different ways our gender roles and sexual identities impact our lives."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Cognitive Abilities** <span id="6"></span> 
 *This is the first of two units that will look at the practical
 applications of gender difference.  This unit will examine cognitive

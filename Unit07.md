@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH406: Gender and Sexuality"
+course_description: "A detailed introduction to the study of the different ways our gender roles and sexual identities impact our lives."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Aggression** <span id="7"></span> 
 *Our final unit in this course will examine gender differences in
 aggression.  Aggression is a particularly interesting concept in the

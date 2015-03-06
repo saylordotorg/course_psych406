@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH406: Gender and Sexuality"
+course_description: "A detailed introduction to the study of the different ways our gender roles and sexual identities impact our lives."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PSYCH406: Gender and Sexuality"
 ----------------------------------------------------
 
