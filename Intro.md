@@ -112,3 +112,4 @@ Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHa
 - [Unit 6](https://legacy.saylor.org/psych406/Unit06/)
 - [Unit 7](https://legacy.saylor.org/psych406/Unit07/)
 - [Unit 8](https://legacy.saylor.org/psych406/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH406/PSYCH406-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH406/PSYCH406-FinalExam-Answers.html)
