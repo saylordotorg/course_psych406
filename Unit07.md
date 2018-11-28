@@ -75,12 +75,12 @@ id="7.1.8"></span> 
     Psychological Literature”**
     Link: Purdue University: Eagly & Steffen’s [“Gender and Aggressive
     Behavior: A Meta-analytic Review of the Social Psychological
-    Literature”](http://www.saylor.org/site/wp-content/uploads/2011/07/psych406-7.2.pdf)
+    Literature”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych406-7.2.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/07/psych406-7.2-Eagly.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych406-7.2-Eagly.epub)  
       
      Instructions: Read this paper by going to the above link and
     clicking on the “PDF” located under the abstract.  Note this article
