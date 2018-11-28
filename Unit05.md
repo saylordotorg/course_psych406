@@ -159,7 +159,7 @@ id="5.2.8"></span> 
 -   **Reading: Tufts University: Ann Hurley, Ph.D.’s “Cognitive
     Development: Overview”**
     Link: Tufts University: Ann Hurley, Ph.D.’s [“Cognitive Development:
-    Overview”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych406-5.3.pdf) (PDF)  
+    Overview”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/psych406-5.3.pdf) (PDF)  
         
      Instructions: Read this overview.  Note that this reading will
     cover the material you need to know for all subunits in section 5.3
@@ -191,7 +191,7 @@ particulars of these two theories are not necessary in this course.*
     Link: University of Georgia: Department of Educational Psychology
     and Instructional Technology: Kay C. Wood, Harlan Smith, and Daurice
     Grossniklaus’ “[Piaget's Stages of Cognitive
-    Development](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych406-5.3.2.pdf)”  
+    Development](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/psych406-5.3.2.pdf)”  
         
      Instructions: Read this material.  Note that this reading will
     cover the material you need to know for section 5.3.2.   
